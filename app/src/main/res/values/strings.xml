@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Guess</string>
+    <string name="please_enter_a_number">Please enter a number</string>
+    <string name="ok">OK</string>
+    <string name="you_got_it">You got it!</string>
+    <string name="bigger">Bigger!</string>
+    <string name="smaller">Smaller!</string>
+    <string name="alertTitle">Message</string>
+    <string name="title_activity_material">MaterialActivity</string>
 </resources>
